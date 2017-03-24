@@ -1,0 +1,72 @@
+[INFO] Scanning for projects...
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building learn BasicTest 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] Downloading: https://artifacts.cotiviti.io/repository/public/org/apache/maven/wagon/wagon-provider-api/1.0-beta-2/wagon-provider-api-1.0-beta-2.pom
+[INFO] Downloaded: https://artifacts.cotiviti.io/repository/public/org/apache/maven/wagon/wagon-provider-api/1.0-beta-2/wagon-provider-api-1.0-beta-2.pom (680 B at 0.3 KB/sec)
+[INFO] Downloading: https://artifacts.cotiviti.io/repository/public/org/apache/maven/wagon/wagon/1.0-beta-2/wagon-1.0-beta-2.pom
+[INFO] Downloaded: https://artifacts.cotiviti.io/repository/public/org/apache/maven/wagon/wagon/1.0-beta-2/wagon-1.0-beta-2.pom (6 KB at 5.2 KB/sec)
+[INFO] Downloading: https://artifacts.cotiviti.io/repository/public/org/apache/maven/maven-core/3.0.3/maven-core-3.0.3.jar
+[INFO] Downloading: https://artifacts.cotiviti.io/repository/public/org/apache/maven/maven-settings-builder/3.0.3/maven-settings-builder-3.0.3.jar
+[INFO] Downloading: https://artifacts.cotiviti.io/repository/public/org/apache/maven/maven-repository-metadata/3.0.3/maven-repository-metadata-3.0.3.jar
+[INFO] Downloading: https://artifacts.cotiviti.io/repository/public/org/apache/maven/maven-model-builder/3.0.3/maven-model-builder-3.0.3.jar
+[INFO] Downloading: https://artifacts.cotiviti.io/repository/public/org/apache/maven/maven-aether-provider/3.0.3/maven-aether-provider-3.0.3.jar
+[INFO] Downloaded: https://artifacts.cotiviti.io/repository/public/org/apache/maven/maven-repository-metadata/3.0.3/maven-repository-metadata-3.0.3.jar (30 KB at 13.5 KB/sec)
+[INFO] Downloading: https://artifacts.cotiviti.io/repository/public/org/sonatype/aether/aether-spi/1.11/aether-spi-1.11.jar
+[INFO] Downloaded: https://artifacts.cotiviti.io/repository/public/org/apache/maven/maven-settings-builder/3.0.3/maven-settings-builder-3.0.3.jar (41 KB at 15.7 KB/sec)
+[INFO] Downloaded: https://artifacts.cotiviti.io/repository/public/org/apache/maven/maven-aether-provider/3.0.3/maven-aether-provider-3.0.3.jar (55 KB at 21.2 KB/sec)
+[INFO] Downloading: https://artifacts.cotiviti.io/repository/public/org/sonatype/aether/aether-impl/1.11/aether-impl-1.11.jar
+[INFO] Downloading: https://artifacts.cotiviti.io/repository/public/org/sonatype/aether/aether-api/1.11/aether-api-1.11.jar
+[INFO] Downloaded: https://artifacts.cotiviti.io/repository/public/org/sonatype/aether/aether-spi/1.11/aether-spi-1.11.jar (16 KB at 5.2 KB/sec)
+[INFO] Downloading: https://artifacts.cotiviti.io/repository/public/org/apache/maven/maven-project/2.0.8/maven-project-2.0.8.jar
+[INFO] Downloaded: https://artifacts.cotiviti.io/repository/public/org/apache/maven/maven-model-builder/3.0.3/maven-model-builder-3.0.3.jar (146 KB at 44.4 KB/sec)
+[INFO] Downloading: https://artifacts.cotiviti.io/repository/public/org/apache/maven/maven-profile/2.0.8/maven-profile-2.0.8.jar
+[INFO] Downloaded: https://artifacts.cotiviti.io/repository/public/org/sonatype/aether/aether-api/1.11/aether-api-1.11.jar (85 KB at 19.6 KB/sec)
+[INFO] Downloading: https://artifacts.cotiviti.io/repository/public/org/apache/maven/maven-artifact-manager/2.0.8/maven-artifact-manager-2.0.8.jar
+[INFO] Downloaded: https://artifacts.cotiviti.io/repository/public/org/sonatype/aether/aether-impl/1.11/aether-impl-1.11.jar (122 KB at 28.1 KB/sec)
+[INFO] Downloading: https://artifacts.cotiviti.io/repository/public/org/apache/maven/wagon/wagon-provider-api/1.0-beta-2/wagon-provider-api-1.0-beta-2.jar
+[INFO] Downloaded: https://artifacts.cotiviti.io/repository/public/org/apache/maven/maven-project/2.0.8/maven-project-2.0.8.jar (114 KB at 26.4 KB/sec)
+[INFO] Downloading: https://artifacts.cotiviti.io/repository/public/org/apache/maven/maven-plugin-registry/2.0.8/maven-plugin-registry-2.0.8.jar
+[INFO] Downloaded: https://artifacts.cotiviti.io/repository/public/org/apache/maven/maven-profile/2.0.8/maven-profile-2.0.8.jar (35 KB at 8.0 KB/sec)
+[INFO] Downloaded: https://artifacts.cotiviti.io/repository/public/org/apache/maven/maven-core/3.0.3/maven-core-3.0.3.jar (544 KB at 114.5 KB/sec)
+[INFO] Downloaded: https://artifacts.cotiviti.io/repository/public/org/apache/maven/maven-artifact-manager/2.0.8/maven-artifact-manager-2.0.8.jar (56 KB at 10.8 KB/sec)
+[INFO] Downloaded: https://artifacts.cotiviti.io/repository/public/org/apache/maven/wagon/wagon-provider-api/1.0-beta-2/wagon-provider-api-1.0-beta-2.jar (46 KB at 8.8 KB/sec)
+[INFO] Downloaded: https://artifacts.cotiviti.io/repository/public/org/apache/maven/maven-plugin-registry/2.0.8/maven-plugin-registry-2.0.8.jar (29 KB at 5.5 KB/sec)
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ learn-basicTest ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /Users/asingh/workdir/learn/src/it/basicTest/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:2.3.2:compile (default-compile) @ learn-basicTest ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ learn-basicTest ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /Users/asingh/workdir/learn/src/it/basicTest/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:2.3.2:testCompile (default-testCompile) @ learn-basicTest ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ learn-basicTest ---
+[INFO] No tests to run.
+[INFO] 
+[INFO] --- learn:0.1-SNAPSHOT:verify (default) @ learn-basicTest ---
+[INFO] groupId:com.soebes.maven.guide.mp.it
+[INFO] artifactId:learn-basicTest
+[INFO] artifactId:1.0-SNAPSHOT
+[INFO] name:learn BasicTest
+[INFO] description:null
+[INFO] file: /Users/asingh/workdir/learn/src/it/basicTest/interpolated-pom.xml
+[INFO] Active profiles:
+[INFO] 
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ learn-basicTest ---
+[WARNING] JAR will be empty - no content was marked for inclusion!
+[INFO] Building jar: /Users/asingh/workdir/learn/src/it/basicTest/target/learn-basicTest-1.0-SNAPSHOT.jar
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 12.172 s
+[INFO] Finished at: 2017-03-24T03:29:42+05:30
+[INFO] Final Memory: 13M/147M
+[INFO] ------------------------------------------------------------------------
